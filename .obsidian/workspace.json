@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "cccdb93491def278",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce2c1a010230356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85adc3ce6eb7aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. basic python/11. String indexing.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. String indexing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b491e8d72950b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d324e03a81f4bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00e124b202b508e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cfa7ae174253a000",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09847ffc62f3faa3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "576c6308ab2d1712",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a40594c52270a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788432493e0b4bd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/08. Conditional express (Ternary Operator).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 08. Conditional express (Ternary Operator)"
+            }
+          },
+          {
+            "id": "9715af65cb11d90b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/08. Conditional express (Ternary Operator).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 08. Conditional express (Ternary Operator)"
+            }
+          },
+          {
+            "id": "29fe540d815171e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b955a4df1336c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/08. Conditional express (Ternary Operator).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 08. Conditional express (Ternary Operator)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f85adc3ce6eb7aaa",
+  "lastOpenFiles": [
+    "01. basic python/12 format Spacifiers.md",
+    "01. basic python/11. String indexing.md",
+    "01. basic python/10. String mthods.md",
+    "01. basic python/09. not.md",
+    "01. basic python/08. Conditional express (Ternary Operator).md",
+    "01. basic python/07. logical operators.md",
+    "01. basic python/06. Conditional if else-if else Statements.md",
+    "01. basic python/05. Math in python.md",
+    "01. basic python/04. arithmetic operation.md",
+    "01. basic python/02. typecasting in python.md",
+    "01. basic python/01. Variables.md",
+    "01. basic python/00. Clear Console.md",
+    "01. basic python/scopping in const in python.md",
+    "01. basic python/24. modules.md",
+    "01. basic python/23. labda in python.md",
+    "01. basic python/22. match case in python.md",
+    "01. basic python/21 list comprihensive.md",
+    "01. basic python/20. membership operator in python.md",
+    "01. basic python/19. functions in python.md",
+    "01. basic python/16. list, set , Tuple.md",
+    "01. basic python/18. random in python.md",
+    "01. basic python/17 dictionary in py.md",
+    "02. numpy/07. ramdom in py.md",
+    "02. numpy/06. filter.md",
+    "02. numpy/05. aggregate functions 📊.md",
+    "02. numpy/00. installtion.md",
+    "Screenshot 2025-12-26 at 4.40.55 PM.png",
+    "Screenshot 2025-12-26 at 4.40.37 PM.png",
+    "Screenshot 2025-12-26 at 4.40.08 PM.png",
+    "Screenshot 2025-12-26 at 4.36.52 PM.png",
+    "Screenshot 2025-12-26 at 4.35.20 PM.png",
+    "Screenshot 2025-12-26 at 3.57.35 PM.png",
+    "Screenshot 2025-12-26 at 3.56.12 PM.png",
+    "Screenshot 2025-12-26 at 3.55.38 PM.png",
+    "Screenshot 2025-12-26 at 3.54.57 PM.png",
+    "Screenshot 2025-12-26 at 3.49.53 PM.png",
+    "02. numpy",
+    "python",
+    "03. pandas",
+    "python_anaconda",
+    "python/Untitled",
+    "01. basic python"
+  ]
+}
