@@ -21,7 +21,8 @@ print(capitals.get("name"))
 
 capitals['name'] = "raju"
 print(capitals)
-capitals.update({'name':"lassan"})
+capitals.update({'name':"lagan"})
+student1["address"]="xyz"
 print(capitals)
 
 capitals.pop("skills")
