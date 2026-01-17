@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. connect sql in python/00. installation.md",
+                "file": "05. connect sql in python/03 read database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. installation"
+              "title": "03 read database"
             }
           }
         ]
@@ -169,19 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "00e124b202b508e6",
+  "active": "f85adc3ce6eb7aaa",
   "lastOpenFiles": [
-    "03. pandas/04. importing.md",
     "03. pandas/05 Selection.md",
+    "05. connect sql in python/02. create and update data.md",
+    "05. connect sql in python/03 read database.md",
+    "05. connect sql in python/00. installation.md",
+    "python_anaconda/01. Create anaconda venv in python.md",
+    "03. pandas/04. importing.md",
     "06. fast api backend/03. example get and post via  sql.md",
     "06. fast api backend/02. base get post api.md",
     "06. fast api backend/00 installation.md",
-    "python_anaconda/01. Create anaconda venv in python.md",
     "06. fast api backend",
-    "05. connect sql in python/00. installation.md",
     "01. basic python/19. functions in python.md",
-    "05. connect sql in python/03 read database.md",
-    "05. connect sql in python/02. create and update data.md",
     "01. basic python/18. random in python.md",
     "01. basic python/17 dictionary in py.md",
     "05. connect sql in python/01. reading data.md",
