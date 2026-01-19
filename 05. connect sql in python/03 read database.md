@@ -1,5 +1,5 @@
 ```python
-cursor.execute("SELECT * FROM studentdata")
-print(cursor.fetchall())
+pool.execute("SELECT * FROM studentdata")
+print(pool.fetchall())
 ```
 
