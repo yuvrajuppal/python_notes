@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. connect sql in python/03 read database.md",
-                "mode": "source",
+                "file": "01. basic python/22. match case in python.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 read database"
+              "title": "22. match case in python"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "f85adc3ce6eb7aaa",
   "lastOpenFiles": [
+    "05. connect sql in python/03 read database.md",
     "05. connect sql in python/02. create and update data.md",
     "05. connect sql in python/00. installation.md",
-    "05. connect sql in python/03 read database.md",
     "06. fast api backend/02. base get post api.md",
     "06. fast api backend/03. example get and post via  sql.md",
     "06. fast api backend/00 installation.md",
