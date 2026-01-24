@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fce2c1a010230356",
+        "id": "9b8e5bd20216499e",
         "type": "tabs",
         "children": [
           {
-            "id": "f85adc3ce6eb7aaa",
+            "id": "8d39d5cec0926cc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. basic python/22. match case in python.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "22. match case in python"
+              "title": "New tab"
             }
           }
         ]
@@ -169,18 +165,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "f85adc3ce6eb7aaa",
+  "active": "8d39d5cec0926cc2",
   "lastOpenFiles": [
-    "05. connect sql in python/03 read database.md",
-    "05. connect sql in python/02. create and update data.md",
-    "05. connect sql in python/00. installation.md",
+    "python_anaconda/01. Create anaconda venv in python.md",
     "06. fast api backend/02. base get post api.md",
-    "06. fast api backend/03. example get and post via  sql.md",
     "06. fast api backend/00 installation.md",
+    "04 file handling/02. file writing.md",
+    "04 file handling/03. file writing.md",
+    "06. fast api backend/03. example get and post via  sql.md",
+    "05. connect sql in python/02. create and update data.md",
+    "05. connect sql in python/03 read database.md",
+    "05. connect sql in python/00. installation.md",
+    "Pasted image 20260102141143.png",
+    "01. basic python/26. exception handling.md",
+    "04 file handling/1. file handling.md",
+    "03. pandas/04. importing.md",
+    "03. pandas/06 filtering in pandas.md",
+    "03. pandas/03. DataFrame.md",
+    "02. numpy/00. installtion.md",
+    "02. numpy/06. filter.md",
+    "02. numpy/07. random in py.md",
+    "01. basic python/22. match case in python.md",
     "Pasted image 20260102141427.png",
     "03. pandas/05 Selection.md",
-    "python_anaconda/01. Create anaconda venv in python.md",
-    "03. pandas/04. importing.md",
     "06. fast api backend",
     "01. basic python/19. functions in python.md",
     "01. basic python/18. random in python.md",
@@ -188,17 +195,8 @@
     "05. connect sql in python/01. reading data.md",
     "05. connect sql in python",
     "03. pandas/07 aggregate functions.md",
-    "02. numpy/07. random in py.md",
-    "01. basic python/26. exception handling.md",
     "03. pandas/01. installation.md",
     "03. pandas/02. Series.md",
-    "04 file handling/03. file writing.md",
-    "04 file handling/02. file writing.md",
-    "04 file handling/1. file handling.md",
-    "01. basic python/10. String mthods.md",
-    "01. basic python/05. Math in python.md",
-    "02. numpy/06. filter.md",
-    "02. numpy/03. slicing.md",
     "Pasted image 20260103152337.png",
     "Pasted image 20260103150425.png",
     "Pasted image 20260103150419.png",
@@ -208,7 +206,6 @@
     "04 file handling",
     "Pasted image 20260103144357.png",
     "Pasted image 20260103144330.png",
-    "Pasted image 20260103144231.png",
     "02. numpy",
     "python",
     "03. pandas",
